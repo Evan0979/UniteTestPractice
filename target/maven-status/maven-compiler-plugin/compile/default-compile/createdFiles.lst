@@ -1,0 +1,12 @@
+onlineshopping\DeliveryService.class
+onlineshopping\CustomerType.class
+onlineshopping\ProductCategory.class
+onlineshopping\OrderService.class
+onlineshopping\DiscountService.class
+onlineshopping\ShoppingCart.class
+onlineshopping\Product.class
+onlineshopping\CartItem.class
+onlineshopping\DeliveryService$DeliveryOption.class
+onlineshopping\DiscountService$DiscountResult.class
+onlineshopping\Customer.class
+onlineshopping\OrderService$OrderResult.class

@@ -1,0 +1,56 @@
+{
+  "src/main/java/onlineshopping/CartItem.java": {
+    "mtime": 1793312363.9907658,
+    "seen": 1794763812.5298374,
+    "ast_hash": "6397b74516337118803c7524c1ab4fba",
+    "semantic_hash": "6397b74516337118803c7524c1ab4fba"
+  },
+  "src/main/java/onlineshopping/Customer.java": {
+    "mtime": 1793312363.942577,
+    "seen": 1794763812.5298438,
+    "ast_hash": "3b691a67d0d3bd66b3f1d9e002503b8e",
+    "semantic_hash": "3b691a67d0d3bd66b3f1d9e002503b8e"
+  },
+  "src/main/java/onlineshopping/CustomerType.java": {
+    "mtime": 1793312363.9671974,
+    "seen": 1794763812.5298471,
+    "ast_hash": "313d18a4653b828989ef9622c0d06020",
+    "semantic_hash": "313d18a4653b828989ef9622c0d06020"
+  },
+  "src/main/java/onlineshopping/DeliveryService.java": {
+    "mtime": 1793312364.0499177,
+    "seen": 1794763812.529849,
+    "ast_hash": "b3830b21f66d1e636a494fe2e2e01768",
+    "semantic_hash": "b3830b21f66d1e636a494fe2e2e01768"
+  },
+  "src/main/java/onlineshopping/DiscountService.java": {
+    "mtime": 1793312364.066691,
+    "seen": 1794763812.5298507,
+    "ast_hash": "7e7420f6ff291c4c8af658bdf8794d0f",
+    "semantic_hash": "7e7420f6ff291c4c8af658bdf8794d0f"
+  },
+  "src/main/java/onlineshopping/OrderService.java": {
+    "mtime": 1793312364.0132942,
+    "seen": 1794763812.5298522,
+    "ast_hash": "1f5597c6a24118de07367485a834741f",
+    "semantic_hash": "1f5597c6a24118de07367485a834741f"
+  },
+  "src/main/java/onlineshopping/Product.java": {
+    "mtime": 1793312363.9193244,
+    "seen": 1794763812.529854,
+    "ast_hash": "30a94b395edadb2670219086c996ce56",
+    "semantic_hash": "30a94b395edadb2670219086c996ce56"
+  },
+  "src/main/java/onlineshopping/ProductCategory.java": {
+    "mtime": 1793312364.0794828,
+    "seen": 1794763812.5298553,
+    "ast_hash": "3025ec04821e48f8e37876354ce6666e",
+    "semantic_hash": "3025ec04821e48f8e37876354ce6666e"
+  },
+  "src/main/java/onlineshopping/ShoppingCart.java": {
+    "mtime": 1793312364.0328457,
+    "seen": 1794763812.5298567,
+    "ast_hash": "2eaad8e4ff6df5cd720bba788590787b",
+    "semantic_hash": "2eaad8e4ff6df5cd720bba788590787b"
+  }
+}

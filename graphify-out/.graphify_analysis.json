@@ -1,0 +1,258 @@
+{
+  "communities": {
+    "0": [
+      "src_main_java_onlineshopping_deliveryservice_deliveryoption",
+      "src_main_java_onlineshopping_deliveryservice_deliveryoption_express",
+      "src_main_java_onlineshopping_deliveryservice_deliveryoption_standard",
+      "src_main_java_onlineshopping_deliveryservice_deliveryservice",
+      "src_main_java_onlineshopping_deliveryservice_deliveryservice_calculatedeliveryfee",
+      "src_main_java_onlineshopping_deliveryservice_deliveryservice_iseligibleforfreestandarddelivery",
+      "src_main_java_onlineshopping_deliveryservice_deliveryservice_validateinputs",
+      "src_main_java_onlineshopping_orderservice_orderresult_orderresult",
+      "src_main_java_onlineshopping_orderservice_orderservice",
+      "src_main_java_onlineshopping_orderservice_orderservice_createorder",
+      "src_main_java_onlineshopping_orderservice_orderservice_money",
+      "src_main_java_onlineshopping_orderservice_orderservice_orderservice",
+      "src_main_java_onlineshopping_shoppingcart_shoppingcart_getitems",
+      "src_main_java_onlineshopping_shoppingcart_shoppingcart_isempty"
+    ],
+    "1": [
+      "src_main_java_onlineshopping_discountservice_discountresult",
+      "src_main_java_onlineshopping_discountservice_discountresult_discountresult",
+      "src_main_java_onlineshopping_discountservice_discountservice",
+      "src_main_java_onlineshopping_discountservice_discountservice_calculateaccessorydiscount",
+      "src_main_java_onlineshopping_discountservice_discountservice_calculatecoupondiscount",
+      "src_main_java_onlineshopping_discountservice_discountservice_calculatediscount",
+      "src_main_java_onlineshopping_discountservice_discountservice_calculatequantitydiscount",
+      "src_main_java_onlineshopping_discountservice_discountservice_calculatesubtotal",
+      "src_main_java_onlineshopping_discountservice_discountservice_getquantitydiscountrate",
+      "src_main_java_onlineshopping_discountservice_discountservice_money",
+      "src_main_java_onlineshopping_discountservice_discountservice_validateinputs",
+      "src_main_java_onlineshopping_product_product_getcategory",
+      "src_main_java_onlineshopping_product_product_getprice"
+    ],
+    "2": [
+      "arraylist",
+      "bigdecimal",
+      "collections",
+      "list",
+      "objects",
+      "roundingmode",
+      "src_main_java_onlineshopping_cartitem",
+      "src_main_java_onlineshopping_deliveryservice",
+      "src_main_java_onlineshopping_discountservice",
+      "src_main_java_onlineshopping_orderservice",
+      "src_main_java_onlineshopping_product",
+      "src_main_java_onlineshopping_shoppingcart"
+    ],
+    "3": [
+      "src_main_java_onlineshopping_customer",
+      "src_main_java_onlineshopping_customer_customer",
+      "src_main_java_onlineshopping_customer_customer_customer",
+      "src_main_java_onlineshopping_customer_customer_getcustomertype",
+      "src_main_java_onlineshopping_customer_customer_getname",
+      "src_main_java_onlineshopping_customer_customer_setcustomertype",
+      "src_main_java_onlineshopping_customer_customer_setname",
+      "src_main_java_onlineshopping_customertype",
+      "src_main_java_onlineshopping_customertype_customertype",
+      "src_main_java_onlineshopping_customertype_customertype_premium",
+      "src_main_java_onlineshopping_customertype_customertype_regular",
+      "src_main_java_onlineshopping_customertype_customertype_vip"
+    ],
+    "4": [
+      "src_main_java_onlineshopping_orderservice_java_override",
+      "src_main_java_onlineshopping_orderservice_orderresult",
+      "src_main_java_onlineshopping_orderservice_orderresult_getaccessorydiscount",
+      "src_main_java_onlineshopping_orderservice_orderresult_getcoupondiscount",
+      "src_main_java_onlineshopping_orderservice_orderresult_getdeliveryfee",
+      "src_main_java_onlineshopping_orderservice_orderresult_getdiscountedmerchandisetotal",
+      "src_main_java_onlineshopping_orderservice_orderresult_getoriginalsubtotal",
+      "src_main_java_onlineshopping_orderservice_orderresult_getquantitydiscount",
+      "src_main_java_onlineshopping_orderservice_orderresult_gettotalpayable",
+      "src_main_java_onlineshopping_orderservice_orderresult_tostring"
+    ],
+    "5": [
+      "src_main_java_onlineshopping_cartitem_cartitem",
+      "src_main_java_onlineshopping_cartitem_cartitem_cartitem",
+      "src_main_java_onlineshopping_cartitem_cartitem_getproduct",
+      "src_main_java_onlineshopping_cartitem_cartitem_gettotalprice",
+      "src_main_java_onlineshopping_product_product",
+      "src_main_java_onlineshopping_product_product_reducestock",
+      "src_main_java_onlineshopping_product_product_setprice",
+      "src_main_java_onlineshopping_product_product_setstock"
+    ],
+    "6": [
+      "src_main_java_onlineshopping_shoppingcart_shoppingcart",
+      "src_main_java_onlineshopping_shoppingcart_shoppingcart_calculatesubtotal",
+      "src_main_java_onlineshopping_shoppingcart_shoppingcart_clear",
+      "src_main_java_onlineshopping_shoppingcart_shoppingcart_finditem",
+      "src_main_java_onlineshopping_shoppingcart_shoppingcart_getnumberofitems",
+      "src_main_java_onlineshopping_shoppingcart_shoppingcart_gettotalquantity",
+      "src_main_java_onlineshopping_shoppingcart_shoppingcart_removeproduct",
+      "src_main_java_onlineshopping_shoppingcart_shoppingcart_shoppingcart"
+    ],
+    "7": [
+      "src_main_java_onlineshopping_cartitem_cartitem_getquantity",
+      "src_main_java_onlineshopping_cartitem_cartitem_setquantity",
+      "src_main_java_onlineshopping_product_product_getname",
+      "src_main_java_onlineshopping_product_product_getstock",
+      "src_main_java_onlineshopping_shoppingcart_shoppingcart_addproduct",
+      "src_main_java_onlineshopping_shoppingcart_shoppingcart_updatequantity"
+    ],
+    "8": [
+      "src_main_java_onlineshopping_product_product_product",
+      "src_main_java_onlineshopping_productcategory",
+      "src_main_java_onlineshopping_productcategory_productcategory",
+      "src_main_java_onlineshopping_productcategory_productcategory_accessory",
+      "src_main_java_onlineshopping_productcategory_productcategory_laptop",
+      "src_main_java_onlineshopping_productcategory_productcategory_other"
+    ],
+    "9": [
+      "src_main_java_onlineshopping_product_java_override",
+      "src_main_java_onlineshopping_product_product_tostring"
+    ]
+  },
+  "cohesion": {
+    "0": 0.24175824175824176,
+    "1": 0.32051282051282054,
+    "2": 0.30303030303030304,
+    "3": 0.21212121212121213,
+    "4": 0.35555555555555557,
+    "5": 0.32142857142857145,
+    "6": 0.2857142857142857,
+    "7": 0.4666666666666667,
+    "8": 0.3333333333333333,
+    "9": 1.0
+  },
+  "gods": [
+    {
+      "id": "src_main_java_onlineshopping_customertype_customertype",
+      "label": "CustomerType",
+      "degree": 18
+    },
+    {
+      "id": "src_main_java_onlineshopping_product_product",
+      "label": "Product",
+      "degree": 18
+    },
+    {
+      "id": "src_main_java_onlineshopping_cartitem_cartitem",
+      "label": "CartItem",
+      "degree": 15
+    },
+    {
+      "id": "src_main_java_onlineshopping_shoppingcart_shoppingcart",
+      "label": "ShoppingCart",
+      "degree": 14
+    },
+    {
+      "id": "src_main_java_onlineshopping_orderservice_orderresult",
+      "label": "OrderResult",
+      "degree": 13
+    },
+    {
+      "id": "src_main_java_onlineshopping_discountservice_discountservice",
+      "label": "DiscountService",
+      "degree": 12
+    },
+    {
+      "id": "src_main_java_onlineshopping_deliveryservice_deliveryoption",
+      "label": "DeliveryOption",
+      "degree": 8
+    },
+    {
+      "id": "src_main_java_onlineshopping_deliveryservice_deliveryservice",
+      "label": "DeliveryService",
+      "degree": 7
+    },
+    {
+      "id": "src_main_java_onlineshopping_orderservice_orderservice",
+      "label": "OrderService",
+      "degree": 7
+    },
+    {
+      "id": "src_main_java_onlineshopping_customer_customer",
+      "label": "Customer",
+      "degree": 7
+    }
+  ],
+  "surprises": [
+    {
+      "source": "OrderResult",
+      "target": "DeliveryOption",
+      "source_files": [
+        "src/main/java/onlineshopping/OrderService.java",
+        "src/main/java/onlineshopping/DeliveryService.java"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "bridges separate communities"
+    },
+    {
+      "source": "OrderService",
+      "target": "DiscountService",
+      "source_files": [
+        "src/main/java/onlineshopping/OrderService.java",
+        "src/main/java/onlineshopping/DiscountService.java"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "bridges separate communities"
+    },
+    {
+      "source": "OrderResult",
+      "target": "DiscountResult",
+      "source_files": [
+        "src/main/java/onlineshopping/OrderService.java",
+        "src/main/java/onlineshopping/DiscountService.java"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "bridges separate communities"
+    },
+    {
+      "source": "ShoppingCart",
+      "target": "CartItem",
+      "source_files": [
+        "src/main/java/onlineshopping/ShoppingCart.java",
+        "src/main/java/onlineshopping/CartItem.java"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "bridges separate communities"
+    },
+    {
+      "source": "Product",
+      "target": "ProductCategory",
+      "source_files": [
+        "src/main/java/onlineshopping/Product.java",
+        "src/main/java/onlineshopping/ProductCategory.java"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "bridges separate communities"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `ShoppingCart` connect `ShoppingCart` to `.createOrder`, `objects`, `Product`, `.addProduct`?",
+      "why": "High betweenness centrality (0.257) - this node is a cross-community bridge."
+    },
+    {
+      "type": "isolated_nodes",
+      "question": "What connects `EXPRESS`, `STANDARD`, `PREMIUM` to the rest of the system?",
+      "why": "8 weakly-connected nodes found - possible missing edges."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `CustomerType` connect `CustomerType` to `.createOrder`, `DiscountService`?",
+      "why": "High betweenness centrality (0.245) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `Product` connect `Product` to `DiscountService`, `objects`, `ShoppingCart`, `.addProduct`, `ProductCategory`, `.toString`?",
+      "why": "High betweenness centrality (0.227) - this node is a cross-community bridge."
+    }
+  ]
+}
